@@ -1,0 +1,39 @@
+##############################################
+#Criado por Kami, plugin Gamersboard.com.br  #
+##############################################
+
+# Prefixo que será adicionado antes de todas as mensagens configuráveis.
+Prefixo: '[&eKamiX1]'
+
+# Mensagem enviada para todo servidor quando um jogador desafia outro
+Desafiou: '&2 @desafiado foi desafiado por @desafiador'
+
+# Mensagem enviada quando o desafiado aceita o convite de x1
+Aceitou: '&2 @desafiado aceitou o x1'
+
+# Tempo maximo do x1, em m/s² (na verdade é em segundos mesmo)
+Tempo: 10
+# Mensagem enviada quando o tempo do x1 acaba
+Tempo acabou: '&a O tempo acabou, x1 cancelado.'
+
+# Mensagem enviada quando o jogador tenta aceitar um x1 sem um convite pendente
+Sem solicitacao: '&c Você não tem nenhua solicitacao pendente bbzinho'
+
+# Mensagem enviada quando o jogador desafiado não aceita o convite
+Arregou: ' &e@desafiado Arregou um x1 contra @desafiador '
+
+# Mensagem enviada quando um dos jogadores mata o outro, ou seja, quando alguém ganha.
+Venceu: '&2 @vencedor venceu o x1 de @perdedor. '
+
+# Tempo que o jogador que venceu o x1 tem para ficar na arena após vencer, em segundos.
+Tempo de coleta: 10
+
+# Dinheiro necessário para começar o x1. Esse dinheiro é perdido pelo perdedor e ganho pelo vencedor.
+# Utilize apenas números com ponto, ou seja, não utilize números inteiros.
+Dinheiro: 300.00
+
+# Tempo de duração máximo do x1, em segundos.
+Tempo x1: 10
+
+# Tempo que uma solicitação de x1 pode ficar pendente. Lembre-se, durante este tempo nenhum outro jogador poderá criar uma solicitação
+Tempo pend: 15
